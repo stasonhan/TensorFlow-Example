@@ -1,0 +1,1635 @@
+2018-04-23 19:56:08,081 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 19:56:08,498 -  main - get_server.py:117 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 19:56:08,498 -  main - get_server.py:122 - consul on 172.17.1.95 is not running 
+2018-04-23 19:56:08,499 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 19:56:08,831 -  main - get_server.py:117 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 19:56:08,831 -  main - get_server.py:122 - consul on 172.17.1.102 is not running 
+2018-04-23 20:14:06,210 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 20:14:06,284 -  main - get_server.py:117 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 20:14:06,285 -  main - get_server.py:122 - consul on 172.17.1.95 is not running 
+2018-04-23 20:14:06,286 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 20:14:06,637 -  main - get_server.py:117 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 20:14:06,638 -  main - get_server.py:122 - consul on 172.17.1.102 is not running 
+2018-04-23 20:19:02,761 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 20:19:03,535 -  main - get_server.py:117 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 20:19:03,535 -  main - get_server.py:122 - consul on 172.17.1.95 is not running 
+2018-04-23 20:19:03,536 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 20:19:03,646 -  main - get_server.py:117 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 20:19:03,647 -  main - get_server.py:122 - consul on 172.17.1.102 is not running 
+2018-04-23 20:23:03,899 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 20:23:04,086 -  main - get_server.py:117 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 20:23:04,087 -  main - get_server.py:122 - consul on 172.17.1.95 is not running 
+2018-04-23 20:23:04,088 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 20:23:04,102 -  main - get_server.py:117 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 20:23:04,102 -  main - get_server.py:122 - consul on 172.17.1.102 is not running 
+2018-04-23 20:25:17,739 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 20:25:17,752 -  main - get_server.py:117 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 20:25:17,753 -  main - get_server.py:122 - consul on 172.17.1.95 is not running 
+2018-04-23 20:25:17,753 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 20:25:17,765 -  main - get_server.py:117 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 20:25:17,766 -  main - get_server.py:122 - consul on 172.17.1.102 is not running 
+2018-04-23 20:45:12,829 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 20:45:12,843 -  main - get_server.py:117 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 20:45:12,843 -  main - get_server.py:122 - consul on 172.17.1.95 is not running 
+2018-04-23 20:45:12,844 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 20:45:13,041 -  main - get_server.py:117 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 20:45:13,041 -  main - get_server.py:122 - consul on 172.17.1.102 is not running 
+2018-04-23 21:12:14,515 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 21:12:14,549 -  main - get_server.py:117 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 21:12:14,549 -  main - get_server.py:122 - consul on 172.17.1.95 is not running 
+2018-04-23 21:12:14,550 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 21:12:14,563 -  main - get_server.py:117 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 21:12:14,563 -  main - get_server.py:122 - consul on 172.17.1.102 is not running 
+2018-04-23 21:12:26,519 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 21:12:26,534 -  main - get_server.py:117 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 21:12:26,534 -  main - get_server.py:122 - consul on 172.17.1.95 is not running 
+2018-04-23 21:12:26,535 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 21:12:26,549 -  main - get_server.py:117 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 21:12:26,550 -  main - get_server.py:122 - consul on 172.17.1.102 is not running 
+2018-04-23 21:12:38,701 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 21:12:38,714 -  main - get_server.py:117 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 21:12:38,714 -  main - get_server.py:122 - consul on 172.17.1.95 is not running 
+2018-04-23 21:12:38,714 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 21:12:38,721 -  main - get_server.py:117 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 21:12:38,721 -  main - get_server.py:122 - consul on 172.17.1.102 is not running 
+2018-04-23 21:12:50,798 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 21:12:50,811 -  main - get_server.py:117 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 21:12:50,812 -  main - get_server.py:122 - consul on 172.17.1.95 is not running 
+2018-04-23 21:12:50,812 -  main - get_server.py:115 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 21:12:50,824 -  main - get_server.py:117 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 21:12:50,824 -  main - get_server.py:122 - consul on 172.17.1.102 is not running 
+2018-04-23 21:45:56,392 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-04-23 21:46:08,894 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 21:46:09,012 -  main - get_server.py:118 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 21:46:09,013 -  main - get_server.py:123 - consul on 172.17.1.95 is not running 
+2018-04-23 21:46:09,014 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 21:46:09,599 -  main - get_server.py:118 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 21:46:09,600 -  main - get_server.py:123 - consul on 172.17.1.102 is not running 
+2018-04-23 21:46:09,601 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.95", 
+            "172.17.1.102"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-04-23 21:46:22,163 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 21:46:22,179 -  main - get_server.py:118 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 21:46:22,179 -  main - get_server.py:123 - consul on 172.17.1.95 is not running 
+2018-04-23 21:46:22,180 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 21:46:22,192 -  main - get_server.py:118 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 21:46:22,192 -  main - get_server.py:123 - consul on 172.17.1.102 is not running 
+2018-04-23 21:46:22,193 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.95", 
+            "172.17.1.102"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-04-23 21:46:22,358 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-04-23 21:51:08,491 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 21:51:08,887 -  main - get_server.py:118 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 21:51:08,887 -  main - get_server.py:123 - consul on 172.17.1.95 is not running 
+2018-04-23 21:51:08,888 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 21:51:08,902 -  main - get_server.py:118 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 21:51:08,902 -  main - get_server.py:123 - consul on 172.17.1.102 is not running 
+2018-04-23 21:51:08,903 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.95", 
+            "172.17.1.102"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-04-23 21:51:20,519 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 21:51:20,534 -  main - get_server.py:118 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 21:51:20,534 -  main - get_server.py:123 - consul on 172.17.1.95 is not running 
+2018-04-23 21:51:20,535 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 21:51:20,547 -  main - get_server.py:118 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 21:51:20,548 -  main - get_server.py:123 - consul on 172.17.1.102 is not running 
+2018-04-23 21:51:20,548 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.95", 
+            "172.17.1.102"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-04-23 21:51:32,467 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 21:51:32,481 -  main - get_server.py:118 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 21:51:32,482 -  main - get_server.py:123 - consul on 172.17.1.95 is not running 
+2018-04-23 21:51:32,483 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 21:51:32,496 -  main - get_server.py:118 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 21:51:32,496 -  main - get_server.py:123 - consul on 172.17.1.102 is not running 
+2018-04-23 21:51:32,497 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.95", 
+            "172.17.1.102"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-04-23 21:51:44,738 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-23 21:51:44,752 -  main - get_server.py:118 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-23 21:51:44,753 -  main - get_server.py:123 - consul on 172.17.1.95 is not running 
+2018-04-23 21:51:44,753 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-23 21:51:44,766 -  main - get_server.py:118 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-23 21:51:44,767 -  main - get_server.py:123 - consul on 172.17.1.102 is not running 
+2018-04-23 21:51:44,767 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.95", 
+            "172.17.1.102"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-04-25 02:47:25,528 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-25 02:47:26,136 -  main - get_server.py:118 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.12', u'40.172.96.11', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-25 02:47:26,136 -  main - get_server.py:123 - consul on 172.17.1.95 is not running 
+2018-04-25 02:47:26,137 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-25 02:47:26,483 -  main - get_server.py:118 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-25 02:47:26,483 -  main - get_server.py:123 - consul on 172.17.1.102 is not running 
+2018-04-25 02:47:26,483 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.95", 
+            "172.17.1.102"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-04-25 02:47:38,559 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-25 02:47:38,564 -  main - get_server.py:118 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.12', u'40.172.96.11', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-25 02:47:38,564 -  main - get_server.py:123 - consul on 172.17.1.95 is not running 
+2018-04-25 02:47:38,564 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-25 02:47:38,763 -  main - get_server.py:118 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-25 02:47:38,763 -  main - get_server.py:123 - consul on 172.17.1.102 is not running 
+2018-04-25 02:47:38,763 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.95", 
+            "172.17.1.102"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-04-25 02:51:31,492 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-25 02:51:31,655 -  main - get_server.py:118 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.12', u'40.172.96.11', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-25 02:51:31,656 -  main - get_server.py:123 - consul on 172.17.1.95 is not running 
+2018-04-25 02:51:31,656 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-25 02:51:31,661 -  main - get_server.py:118 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-25 02:51:31,661 -  main - get_server.py:123 - consul on 172.17.1.102 is not running 
+2018-04-25 02:51:31,661 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.95", 
+            "172.17.1.102"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-04-25 02:51:43,547 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-XMejtcGa-B4190386310101d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "40.172.96.15"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.95"
+                }
+            ], 
+            "cluster_name": "B4190386310101d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "0456f410-c759-4970-a615-fe2299356e51"
+        }
+    ], 
+    "master_ip": "172.17.1.104"
+}
+2018-04-25 02:51:43,557 -  main - get_server.py:118 - consul_nodes: [u'40.172.96.20', u'40.172.96.7', u'40.172.96.12', u'40.172.96.11', u'40.172.96.8', u'40.172.96.13', u'40.172.96.3', u'40.172.96.15']
+2018-04-25 02:51:43,557 -  main - get_server.py:123 - consul on 172.17.1.95 is not running 
+2018-04-25 02:51:43,557 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-iuZSqGDP-B4183328234480d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "34.161.230.11"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.102"
+                }
+            ], 
+            "cluster_name": "B4183328234480d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "724ed400-f2e0-47eb-980f-96adb3d612ab"
+        }
+    ], 
+    "master_ip": "172.17.1.70"
+}
+2018-04-25 02:51:43,561 -  main - get_server.py:118 - consul_nodes: [u'34.161.230.10', u'34.161.230.6', u'34.161.230.8', u'34.161.230.12', u'34.161.230.11']
+2018-04-25 02:51:43,561 -  main - get_server.py:123 - consul on 172.17.1.102 is not running 
+2018-04-25 02:51:43,561 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.95", 
+            "172.17.1.102"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-05-03 23:46:44,082 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-ntzfUwFE-B4261911943801d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "167.44.67.7"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.76"
+                }
+            ], 
+            "cluster_name": "B4261911943801d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "7c61b79a-4034-4758-aa98-f7690918db32"
+        }
+    ], 
+    "master_ip": "172.17.1.100"
+}
+2018-05-03 23:46:44,293 -  main - get_server.py:118 - consul_nodes: [u'167.44.67.8', u'167.44.67.5', u'167.44.67.12', u'167.44.67.9', u'167.44.67.6', u'167.44.67.4', u'167.44.67.13', u'167.44.67.7']
+2018-05-03 23:46:44,294 -  main - get_server.py:123 - consul on 172.17.1.76 is not running 
+2018-05-03 23:46:44,295 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-skeElbzq-B5041544801093d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "125.235.198.12"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.107"
+                }
+            ], 
+            "cluster_name": "B5041544801093d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "f48e4b02-8af4-464c-998b-f3bd911b0c4c"
+        }
+    ], 
+    "master_ip": "172.17.1.102"
+}
+2018-05-03 23:46:44,307 -  main - get_server.py:118 - consul_nodes: [u'125.235.198.8', u'125.235.198.13', u'125.235.198.5', u'125.235.198.10', u'125.235.198.3', u'125.235.198.11', u'125.235.198.6']
+2018-05-03 23:46:44,307 -  main - get_server.py:121 - consul on 172.17.1.107 is running 
+2018-05-03 23:46:44,308 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.76"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-05-03 23:46:58,887 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-ntzfUwFE-B4261911943801d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "167.44.67.7"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.76"
+                }
+            ], 
+            "cluster_name": "B4261911943801d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "7c61b79a-4034-4758-aa98-f7690918db32"
+        }
+    ], 
+    "master_ip": "172.17.1.100"
+}
+2018-05-03 23:46:58,903 -  main - get_server.py:118 - consul_nodes: [u'167.44.67.8', u'167.44.67.5', u'167.44.67.12', u'167.44.67.9', u'167.44.67.6', u'167.44.67.4', u'167.44.67.13', u'167.44.67.7']
+2018-05-03 23:46:58,903 -  main - get_server.py:123 - consul on 172.17.1.76 is not running 
+2018-05-03 23:46:58,904 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-skeElbzq-B5041544801093d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "125.235.198.12"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.107"
+                }
+            ], 
+            "cluster_name": "B5041544801093d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "f48e4b02-8af4-464c-998b-f3bd911b0c4c"
+        }
+    ], 
+    "master_ip": "172.17.1.102"
+}
+2018-05-03 23:46:58,916 -  main - get_server.py:118 - consul_nodes: [u'125.235.198.8', u'125.235.198.13', u'125.235.198.5', u'125.235.198.10', u'125.235.198.3', u'125.235.198.11', u'125.235.198.6']
+2018-05-03 23:46:58,916 -  main - get_server.py:121 - consul on 172.17.1.107 is running 
+2018-05-03 23:46:58,916 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.76"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-05-03 23:47:14,305 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-ntzfUwFE-B4261911943801d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "167.44.67.7"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.76"
+                }
+            ], 
+            "cluster_name": "B4261911943801d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "7c61b79a-4034-4758-aa98-f7690918db32"
+        }
+    ], 
+    "master_ip": "172.17.1.100"
+}
+2018-05-03 23:47:14,506 -  main - get_server.py:118 - consul_nodes: [u'167.44.67.8', u'167.44.67.5', u'167.44.67.12', u'167.44.67.9', u'167.44.67.6', u'167.44.67.4', u'167.44.67.13', u'167.44.67.7']
+2018-05-03 23:47:14,506 -  main - get_server.py:123 - consul on 172.17.1.76 is not running 
+2018-05-03 23:47:14,507 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-skeElbzq-B5041544801093d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "125.235.198.12"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.107"
+                }
+            ], 
+            "cluster_name": "B5041544801093d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "f48e4b02-8af4-464c-998b-f3bd911b0c4c"
+        }
+    ], 
+    "master_ip": "172.17.1.102"
+}
+2018-05-03 23:47:14,523 -  main - get_server.py:118 - consul_nodes: [u'125.235.198.8', u'125.235.198.13', u'125.235.198.5', u'125.235.198.10', u'125.235.198.3', u'125.235.198.11', u'125.235.198.6']
+2018-05-03 23:47:14,524 -  main - get_server.py:121 - consul on 172.17.1.107 is running 
+2018-05-03 23:47:14,524 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.76"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-05-04 00:00:24,479 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-ntzfUwFE-B4261911943801d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "167.44.67.7"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.76"
+                }
+            ], 
+            "cluster_name": "B4261911943801d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "7c61b79a-4034-4758-aa98-f7690918db32"
+        }
+    ], 
+    "master_ip": "172.17.1.100"
+}
+2018-05-04 00:00:24,497 -  main - get_server.py:118 - consul_nodes: [u'167.44.67.8', u'167.44.67.5', u'167.44.67.12', u'167.44.67.9', u'167.44.67.6', u'167.44.67.4', u'167.44.67.13', u'167.44.67.7']
+2018-05-04 00:00:24,497 -  main - get_server.py:121 - consul on 172.17.1.76 is running 
+2018-05-04 00:00:24,498 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-skeElbzq-B5041544801093d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "125.235.198.12"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.107"
+                }
+            ], 
+            "cluster_name": "B5041544801093d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "f48e4b02-8af4-464c-998b-f3bd911b0c4c"
+        }
+    ], 
+    "master_ip": "172.17.1.102"
+}
+2018-05-04 00:00:24,509 -  main - get_server.py:118 - consul_nodes: [u'125.235.198.8', u'125.235.198.13', u'125.235.198.5', u'125.235.198.10', u'125.235.198.3', u'125.235.198.11', u'125.235.198.6']
+2018-05-04 00:00:24,510 -  main - get_server.py:123 - consul on 172.17.1.107 is not running 
+2018-05-04 00:00:24,511 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.107"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-05-04 00:00:39,089 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-ntzfUwFE-B4261911943801d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "167.44.67.7"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.76"
+                }
+            ], 
+            "cluster_name": "B4261911943801d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "7c61b79a-4034-4758-aa98-f7690918db32"
+        }
+    ], 
+    "master_ip": "172.17.1.100"
+}
+2018-05-04 00:00:39,291 -  main - get_server.py:118 - consul_nodes: [u'167.44.67.8', u'167.44.67.5', u'167.44.67.12', u'167.44.67.9', u'167.44.67.6', u'167.44.67.4', u'167.44.67.13', u'167.44.67.7']
+2018-05-04 00:00:39,292 -  main - get_server.py:121 - consul on 172.17.1.76 is running 
+2018-05-04 00:00:39,292 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-skeElbzq-B5041544801093d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "125.235.198.12"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.107"
+                }
+            ], 
+            "cluster_name": "B5041544801093d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "f48e4b02-8af4-464c-998b-f3bd911b0c4c"
+        }
+    ], 
+    "master_ip": "172.17.1.102"
+}
+2018-05-04 00:00:39,305 -  main - get_server.py:118 - consul_nodes: [u'125.235.198.8', u'125.235.198.13', u'125.235.198.5', u'125.235.198.10', u'125.235.198.3', u'125.235.198.11', u'125.235.198.6']
+2018-05-04 00:00:39,306 -  main - get_server.py:123 - consul on 172.17.1.107 is not running 
+2018-05-04 00:00:39,307 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.107"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-05-04 00:00:54,284 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-ntzfUwFE-B4261911943801d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "167.44.67.7"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.76"
+                }
+            ], 
+            "cluster_name": "B4261911943801d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "7c61b79a-4034-4758-aa98-f7690918db32"
+        }
+    ], 
+    "master_ip": "172.17.1.100"
+}
+2018-05-04 00:00:54,299 -  main - get_server.py:118 - consul_nodes: [u'167.44.67.8', u'167.44.67.5', u'167.44.67.12', u'167.44.67.9', u'167.44.67.6', u'167.44.67.4', u'167.44.67.13', u'167.44.67.7']
+2018-05-04 00:00:54,300 -  main - get_server.py:121 - consul on 172.17.1.76 is running 
+2018-05-04 00:00:54,301 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-skeElbzq-B5041544801093d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "125.235.198.12"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.107"
+                }
+            ], 
+            "cluster_name": "B5041544801093d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "f48e4b02-8af4-464c-998b-f3bd911b0c4c"
+        }
+    ], 
+    "master_ip": "172.17.1.102"
+}
+2018-05-04 00:00:54,313 -  main - get_server.py:118 - consul_nodes: [u'125.235.198.8', u'125.235.198.13', u'125.235.198.5', u'125.235.198.10', u'125.235.198.3', u'125.235.198.11', u'125.235.198.6']
+2018-05-04 00:00:54,314 -  main - get_server.py:123 - consul on 172.17.1.107 is not running 
+2018-05-04 00:00:54,315 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.107"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-05-07 23:22:18,826 -  main - get_server.py:116 - cluster: {
+    "renders": [], 
+    "master_ip": "172.17.1.100"
+}
+2018-05-07 23:22:19,125 -  main - get_server.py:118 - consul_nodes: [u'167.44.67.8', u'167.44.67.5', u'167.44.67.12', u'167.44.67.9', u'167.44.67.6', u'167.44.67.4', u'167.44.67.13', u'167.44.67.7']
+2018-05-07 23:22:19,125 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-smBoFfHT-B5085987906149d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "176.113.225.12"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.107"
+                }
+            ], 
+            "cluster_name": "B5085987906149d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "91de131b-2ad0-4cf9-be1f-9d79e1aaa95d"
+        }
+    ], 
+    "master_ip": "172.17.1.102"
+}
+2018-05-07 23:22:19,129 -  main - get_server.py:118 - consul_nodes: [u'176.113.225.11', u'176.113.225.6', u'176.113.225.16', u'176.113.225.8', u'176.113.225.17', u'176.113.225.9', u'176.113.225.4']
+2018-05-07 23:22:19,130 -  main - get_server.py:123 - consul on 172.17.1.107 is not running 
+2018-05-07 23:22:19,130 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.107"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-05-07 23:22:34,885 -  main - get_server.py:116 - cluster: {
+    "renders": [], 
+    "master_ip": "172.17.1.100"
+}
+2018-05-07 23:22:34,890 -  main - get_server.py:118 - consul_nodes: [u'167.44.67.8', u'167.44.67.5', u'167.44.67.12', u'167.44.67.9', u'167.44.67.6', u'167.44.67.4', u'167.44.67.13', u'167.44.67.7']
+2018-05-07 23:22:34,890 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-smBoFfHT-B5085987906149d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "176.113.225.12"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.107"
+                }
+            ], 
+            "cluster_name": "B5085987906149d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "91de131b-2ad0-4cf9-be1f-9d79e1aaa95d"
+        }
+    ], 
+    "master_ip": "172.17.1.102"
+}
+2018-05-07 23:22:34,893 -  main - get_server.py:118 - consul_nodes: [u'176.113.225.11', u'176.113.225.6', u'176.113.225.16', u'176.113.225.8', u'176.113.225.17', u'176.113.225.9', u'176.113.225.4']
+2018-05-07 23:22:34,893 -  main - get_server.py:123 - consul on 172.17.1.107 is not running 
+2018-05-07 23:22:34,894 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.107"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
+2018-05-07 23:22:50,781 -  main - get_server.py:116 - cluster: {
+    "renders": [], 
+    "master_ip": "172.17.1.100"
+}
+2018-05-07 23:22:50,798 -  main - get_server.py:118 - consul_nodes: [u'167.44.67.8', u'167.44.67.5', u'167.44.67.12', u'167.44.67.9', u'167.44.67.6', u'167.44.67.4', u'167.44.67.13', u'167.44.67.7']
+2018-05-07 23:22:50,799 -  main - get_server.py:116 - cluster: {
+    "renders": [
+        {
+            "status": "ACTIVE", 
+            "name": "Render-smBoFfHT-B5085987906149d", 
+            "ip": [
+                {
+                    "type": "fixed", 
+                    "addr": "176.113.225.12"
+                }, 
+                {
+                    "type": "floating", 
+                    "addr": "172.17.1.107"
+                }
+            ], 
+            "cluster_name": "B5085987906149d", 
+            "software_code": "3D_rendering_server", 
+            "uuid": "91de131b-2ad0-4cf9-be1f-9d79e1aaa95d"
+        }
+    ], 
+    "master_ip": "172.17.1.102"
+}
+2018-05-07 23:22:50,819 -  main - get_server.py:118 - consul_nodes: [u'176.113.225.11', u'176.113.225.6', u'176.113.225.16', u'176.113.225.8', u'176.113.225.17', u'176.113.225.9', u'176.113.225.4']
+2018-05-07 23:22:50,819 -  main - get_server.py:123 - consul on 172.17.1.107 is not running 
+2018-05-07 23:22:50,820 -  main - get_server.py:127 - {
+    "renders": {
+        "hosts": [
+            "172.17.1.107"
+        ], 
+        "vars": {
+            "ansible_ssh_port": 5986, 
+            "ansible_ssh_user": "Administrator", 
+            "ansible_winrm_server_cert_validation": "ignore", 
+            "ansible_ssh_pass": "win10@hermes", 
+            "ansible_connection": "winrm"
+        }
+    }
+}
